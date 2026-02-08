@@ -1,6 +1,5 @@
 # MedAxis
 🏥 **Healthcare Data Management & Operations Analytics Platform**
-```text
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ```
 🚧 **Project Status:** Active Development — *Design, Data Modeling & Analytics Planning Phase*
