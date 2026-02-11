@@ -14,8 +14,8 @@ The platform focuses on securely managing patient and operational data while ena
 MedAxis is being developed as a **modular, compliance-aware system** suitable for HealthTech and enterprise environments.
 
 This repository currently represents the **product definition, architecture, and implementation roadmap**, with development in progress.
-
-────────────────────────────────────────────────────────────
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+```
 
 ## ❗ Problem Statement
 Healthcare organizations often face challenges such as:
@@ -27,8 +27,8 @@ Healthcare organizations often face challenges such as:
 Existing platforms are often **rigid, expensive, or difficult to adapt** to operational analytics needs.
 
 **MedAxis is designed to address these gaps** by combining secure data management with structured analytics for hospital operations.
-
-────────────────────────────────────────────────────────────
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+```
 
 ## 🎯 Product Objectives
 - Centralize patient and operational healthcare data  
@@ -37,8 +37,7 @@ Existing platforms are often **rigid, expensive, or difficult to adapt** to oper
 - Provide department-level dashboards for decision-makers  
 - Maintain data privacy and compliance by design  
 
-────────────────────────────────────────────────────────────
-
+```
 ## ⚙️ Core Capabilities (Planned & In Progress)
 
 ### 🧑‍⚕️ Patient Data Management
@@ -60,8 +59,8 @@ Existing platforms are often **rigid, expensive, or difficult to adapt** to oper
 - Role-specific analytics views  
 - KPI-focused reporting for hospital management  
 - Designed for operational and strategic use  
-
-────────────────────────────────────────────────────────────
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+```
 
 ## 🔐 Security & Compliance Design
 
@@ -81,7 +80,7 @@ Existing platforms are often **rigid, expensive, or difficult to adapt** to oper
 - Data anonymization for analytics and reporting  
 - Separation of identifiable and analytical datasets  
 
-────────────────────────────────────────────────────────────
+```
 
 ## 🧩 Architecture Overview
 MedAxis follows a **modular, service-oriented architecture** tailored for healthcare environments.
@@ -96,7 +95,7 @@ MedAxis follows a **modular, service-oriented architecture** tailored for health
 
 The architecture supports **secure data flows, scalability, and integration** with external analytics tools.
 
-────────────────────────────────────────────────────────────
+```
 
 ## 🛠️ Technology Stack
 - **Backend:** Python (Django) / Java (Spring Boot)  
@@ -105,8 +104,7 @@ The architecture supports **secure data flows, scalability, and integration** wi
 - **Frontend:** JavaScript-based dashboards  
 - **Infrastructure:** AWS EC2  
 
-────────────────────────────────────────────────────────────
-
+```
 ## 📂 Planned Project Structure
 ```text
 MedAxis/
@@ -148,7 +146,7 @@ Analytics dashboards present actionable insights
 
 All access and changes are logged for audit
 
-────────────────────────────────────────────────────────────
+```
 
 🏢 Healthcare & Business Use Cases
 
@@ -162,7 +160,7 @@ Hospital operations planning
 
 Compliance reporting and audits
 
-────────────────────────────────────────────────────────────
+```
 
 📜 Compliance Considerations
 
@@ -180,8 +178,7 @@ HIPAA-style privacy principles
 
 Healthcare data governance standards
 
-────────────────────────────────────────────────────────────
-
+```
 🗺️ Roadmap
 
 Phase 1: Data modeling and schema design (current)
@@ -194,7 +191,7 @@ Phase 4: Dashboard integration
 
 Phase 5: Security hardening and compliance validation
 
-────────────────────────────────────────────────────────────
+```
 
 ⚠️ Disclaimer
 
