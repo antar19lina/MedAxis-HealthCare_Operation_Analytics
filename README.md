@@ -7,7 +7,7 @@ ________________________________________________________________________________
 ```
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ```
-## 📌 Overview
+📌 Overview
 MedAxis is a **healthcare data management and operations analytics platform** designed to support **patient care workflows** and **hospital operational decision-making**.
 
 The platform focuses on securely managing patient and operational data while enabling **analytics-driven insights** across appointments, departments, and resource utilization.  
@@ -30,7 +30,7 @@ Existing platforms are often **rigid, expensive, or difficult to adapt** to oper
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ```
 
-## 🎯 Product Objectives
+🎯 Product Objectives
 - Centralize patient and operational healthcare data  
 - Enable analytics-driven insights for appointments and resources  
 - Enforce consent-based and role-based access control  
@@ -62,21 +62,21 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ```
 
-## 🔐 Security & Compliance Design
+ 🔐 Security & Compliance Design
 
-### 🔒 Data Protection
+ 🔒 Data Protection
 - Encryption for sensitive healthcare data  
 - Secure storage aligned with industry best practices  
 
-### 👥 Access Control
+👥 Access Control
 - Consent-based and role-based access models  
 - Principle of least privilege  
 
-### 🧾 Audit & Traceability
+🧾 Audit & Traceability
 - Immutable audit logs for data access and modifications  
 - Designed for compliance verification and investigations  
 
-### 🕵️ Data Privacy
+🕵️ Data Privacy
 - Data anonymization for analytics and reporting  
 - Separation of identifiable and analytical datasets  
 
@@ -97,7 +97,7 @@ The architecture supports **secure data flows, scalability, and integration** wi
 
 ```
 
-## 🛠️ Technology Stack
+🛠️ Technology Stack
 - **Backend:** Python (Django) / Java (Spring Boot)  
 - **Database:** PostgreSQL  
 - **Analytics & Visualization:** Power BI / Tableau  
