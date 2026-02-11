@@ -14,7 +14,7 @@ The platform focuses on securely managing patient and operational data while ena
 MedAxis is being developed as a **modular, compliance-aware system** suitable for HealthTech and enterprise environments.
 
 This repository currently represents the **product definition, architecture, and implementation roadmap**, with development in progress.
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 ```
 
 ## ❗ Problem Statement
