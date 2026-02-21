@@ -33,7 +33,7 @@ Built as a modular, compliance-aware system, MedAxis demonstrates secure system 
 ---
 
 ## 🎯 Industry Problem
-
+```
 Healthcare organizations often struggle with:
 
 - Fragmented patient and operational data  
@@ -44,13 +44,13 @@ Healthcare organizations often struggle with:
 Existing systems are frequently rigid, expensive, or not analytics-focused.
 
 **MedAxis addresses these challenges by combining secure data management with operational intelligence.**
-
+```
 ---
 
 ## 🏗️ Architecture Overview
-
+```
 MedAxis follows a modular, service-oriented architecture designed for scalability and compliance.
-
+```
 ### 🧑‍⚕️ Patient Data Service
 - Secure storage of demographic and visit records  
 - Structured relational schema design  
@@ -98,7 +98,7 @@ MedAxis follows a modular, service-oriented architecture designed for scalabilit
 ---
 
 ## 🔍 Core Capabilities
-
+```
 - Centralized healthcare data management  
 - Secure patient record handling  
 - KPI-driven operational analytics  
@@ -107,9 +107,9 @@ MedAxis follows a modular, service-oriented architecture designed for scalabilit
 - Consent-based access governance  
 - Audit logging & traceability  
 - Compliance-aware architecture design  
-
+```
 ---
-
+```
 ## 🔄 Operational Workflow
 
 1. Patient and appointment data securely ingested  
@@ -118,7 +118,7 @@ MedAxis follows a modular, service-oriented architecture designed for scalabilit
 4. Operational KPIs aggregated  
 5. Dashboards generate actionable insights  
 6. All activities logged for compliance tracking  
-
+```
 ---
 
 ## 📂 Project Structure
