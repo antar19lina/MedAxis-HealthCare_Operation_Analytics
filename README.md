@@ -109,9 +109,9 @@ MedAxis follows a modular, service-oriented architecture designed for scalabilit
 - Compliance-aware architecture design  
 ```
 ---
-```
-## 🔄 Operational Workflow
 
+## 🔄 Operational Workflow
+```
 1. Patient and appointment data securely ingested  
 2. Data stored in structured relational models  
 3. Access governed via consent & role policies  
