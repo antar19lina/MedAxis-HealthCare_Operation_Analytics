@@ -153,7 +153,7 @@ MedAxis/
 │
 └── README.md
 ```
-```
+
 📈 Healthcare & Business Use Cases
 ```
 Patient flow optimization
@@ -187,6 +187,7 @@ HIPAA-style privacy principles
 Healthcare data governance standards
 ```
 🗺️ Development Roadmap
+
 ```
 Phase 1: Data modeling & schema design (Current)
 Phase 2: Patient & appointment service implementation
@@ -195,6 +196,7 @@ Phase 4: Dashboard integration
 Phase 5: Security hardening & compliance validation
 ```
 📌 Portfolio Positioning
+
 ```
 MedAxis demonstrates:
 
@@ -207,6 +209,7 @@ Operational analytics engineering
 KPI-driven dashboard development
 
 Compliance-aware backend development
+```
 ```
 ⚠️ Disclaimer
 
